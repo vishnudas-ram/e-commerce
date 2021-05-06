@@ -1,0 +1,14 @@
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+.btn{
+    text-align: center;
+    width: 150px;
+    margin: 5px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
